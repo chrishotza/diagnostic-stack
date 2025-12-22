@@ -30,7 +30,7 @@ These diagnostics are designed to fail loudly.
 The complete notebooks, datasets and extended analyses are available here:
 
 👉 **Gumroad – Diagnostic Stack (full version)**  
-👉 *(link)*
+👉 *[(link)](https://hotza1.gumroad.com/l/arculy)*
 
 ## Philosophy
 
