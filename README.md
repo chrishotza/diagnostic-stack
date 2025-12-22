@@ -25,12 +25,15 @@ Standard metrics often fail to detect:
 
 These diagnostics are designed to fail loudly.
 
-## Full research-grade versions
+## Full research-grade implementations
 
-The complete notebooks, datasets and extended analyses are available here:
+This repository contains **minimal demonstrations** of each diagnostic.
 
-👉 **Gumroad – Diagnostic Stack (full version)**  
-👉 *[(link)](https://hotza1.gumroad.com/l/arculy)*
+Full research-grade implementations — including extended notebooks,
+datasets, stress variants and documentation — are available here:
+
+👉 Diagnostic Stack (CID-1 · LSD-1 · RSD-1)  
+👉 https://hotza1.gumroad.com/l/arculy
 
 ## Philosophy
 
