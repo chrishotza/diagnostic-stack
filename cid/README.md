@@ -97,7 +97,7 @@ CID answers:
 
 The full research bundle, including extended notebooks and documentation, is available here:
 
-👉 https://hotza1.gumroad.com
+👉 https://hotza1.gumroad.com](https://hotza1.gumroad.com/l/bvbwxg
 
 ---
 
