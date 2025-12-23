@@ -57,4 +57,6 @@ The full LSD-1 toolkit includes:
 - multi-level stress injection
 - regime-aware analysis
 
+https://hotza1.gumroad.com/l/yqeokk
+
 👉 Available in the commercial Diagnostic Stack.
